@@ -1,0 +1,26 @@
+ROTAS MAXPOWER — como publicar e instalar
+
+1) PUBLICAR (GitHub Pages, grátis)
+   - Envie TODOS os arquivos desta pasta para o repositório (index.html, manifest.webmanifest, sw.js e os 3 ícones).
+   - Settings > Pages > Branch main / (root) > Save.
+   - Endereço: https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+
+2) INSTALAR NO CELULAR ANDROID (sem APK)
+   - Abra o endereço no Chrome > menu (3 pontinhos) > "Instalar app".
+   - Vira um ícone na tela inicial e abre em tela cheia, como aplicativo.
+   - No iPhone: Safari > Compartilhar > "Adicionar à Tela de Início".
+
+3) INSTALAR NO COMPUTADOR (Windows/Mac/Linux)
+   - Abra o endereço no Chrome ou no Edge > ícone de instalar na barra de endereço
+     (ou aba Lojas > Dados > "Instalar como aplicativo").
+   - Fica no menu Iniciar / área de trabalho e abre em janela própria.
+
+4) GERAR UM ARQUIVO .APK (para mandar por WhatsApp ou publicar na Play Store)
+   - Com o app já publicado, entre em https://www.pwabuilder.com
+   - Cole o endereço do app > Start > "Package for stores" > Android > Generate.
+   - Baixa um .zip com o .apk (para instalar e testar) e o .aab (para a Play Store).
+   - Para instalar o .apk no celular, permita "instalar apps de fontes desconhecidas".
+   - Na mesma tela há a opção Windows (pacote para a Microsoft Store), se quiser.
+
+Atualizações: troque o index.html no GitHub. O app instalado pega a versão nova
+na próxima vez que abrir com internet.
